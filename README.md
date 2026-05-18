@@ -2,6 +2,8 @@
 
 VoiceTrace is a local-first longitudinal cognitive communication monitoring platform designed for families and rural clinicians who need a practical way to notice meaningful speech-pattern changes over time. It combines guided voice diaries, transcription, linguistic and acoustic marker extraction, contextual life-event journaling, caregiver-friendly AI insights, and clinician-ready summaries while keeping audio, transcripts, and trend data on the device.
 
+![VoiceTrace homepage](docs/images/voicetrace-homepage.png)
+
 ## What VoiceTrace Does
 
 VoiceTrace now supports:
